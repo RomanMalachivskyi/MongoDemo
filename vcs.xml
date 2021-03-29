@@ -14,6 +14,10 @@
           <option name="url" value="https://axinic.central.inditex.grp/bitbucket/scm/slcpinte/main.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://axinic.central.inditex.grp" />
+          <option name="userName" value="romanmal" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
